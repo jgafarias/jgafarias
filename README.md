@@ -14,7 +14,10 @@ My ultimate goal is to become a proficient developer and contribute to innovativ
 
 I'm always open to connecting with fellow tech enthusiasts, sharing knowledge, and collaborating on exciting projects. Feel free to reach out and join me on this incredible journey!
 
-  ![Code](https://github-readme-stats.vercel.app/api/top-langs/?username=jgafarias&theme=transparent&show_icons=true)
+---
+### Github Stats
+
+  (https://github-readme-stats.vercel.app/api/top-langs/?username=jgafarias&theme=transparent&show_icons=true)
 
 ---
 
