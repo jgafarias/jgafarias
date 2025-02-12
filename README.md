@@ -14,7 +14,7 @@ My ultimate goal is to become a proficient developer and contribute to innovativ
 
 I'm always open to connecting with fellow tech enthusiasts, sharing knowledge, and collaborating on exciting projects. Feel free to reach out and join me on this incredible journey!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgafarias&show_icons=true&theme=transparent)
+![Code](https://github-readme-stats.vercel.app/api/top-langs/?username=jgafarias&theme=transparent&show_icons=true)
 
 
 ---
