@@ -17,4 +17,4 @@ I'm always open to connecting with fellow tech enthusiasts, sharing knowledge, a
 ---
 ### Github Stats
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgafarias&show_icons=true&theme=github_dark_dimmed" />
+[![Jgafarias's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgafarias&theme=github_dark_dimmed)](https://github.com/jgafarias/github-readme-stats)
