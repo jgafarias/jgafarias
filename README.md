@@ -9,5 +9,5 @@
 ### My Favorite Projects
 ---
 <a href="https://github.com/jgafarias/QRCode-Generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jgafarias&theme=github_dark_dimed&repo=qrcode-generator" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jgafarias&theme=github_dark_dimmed&repo=qrcode-generator" />
 </a>
