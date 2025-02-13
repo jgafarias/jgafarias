@@ -8,4 +8,4 @@
 
 ### My Favorite Projects
 ---
-
+[![QRCode](https://github-readme-stats.vercel.app/api/pin/?username=jgafarias&repo=QRCode-Generator&theme=github_dark_dimmed)](https://github.com/jgafarias/QRCode-Generator)
