@@ -11,3 +11,6 @@
 <a href="https://github.com/jgafarias/QRCode-Generator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jgafarias&theme=transparent&repo=qrcode-generator" />
 </a>
+<a href="https://github.com/jgafarias/Calculadora-Flet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jgafarias&theme=transparent&repo=calculadora-flet" />
+</a>
