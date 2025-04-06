@@ -1,14 +1,14 @@
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jgafarias&layout=compact&theme=algolia&locale=en&include_all_commits=true" alt="Techs used in projects" width="300px" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jgafarias&layout=compact&theme=algolia&locale=pt-br&include_all_commits=true" alt="Techs used in projects" width="300px" />
 </p>
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgafarias&theme=algolia&include_all_commits=true" alt="Streak Stats" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgafarias&theme=algolia&include_all_commits=true&locale=pt-br" alt="Streak Stats" />
 </p>
 
 ---
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=jgafarias&theme=algolia&show_icons=true&include_all_commits=true&locale=en" alt="General Statistics" />
+ <img src="https://github-readme-stats.vercel.app/api?username=jgafarias&theme=algolia&show_icons=true&include_all_commits=true&locale=pt-br" alt="General Statistics" />
 </p>
 <p align="center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jgafarias&theme=xcode&bg_color=151515&include_all_commits=true" alt="Activity Graph" />
