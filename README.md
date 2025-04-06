@@ -1,6 +1,6 @@
 <div align="center">
   
-![Jgafarias's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgafarias&show_icons=true&theme=city_lights&hide=prs,issues&count_private=true)
+![Jgafarias's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgafarias&show_icons=true&count_private=true&theme=city_lights&hide=prs,issues)
 
 ---
 
