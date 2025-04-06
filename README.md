@@ -6,10 +6,6 @@
 </p>
 
 ---
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=jgafarias&theme=algolia&show_icons=true&count_private=true&locale=pt-br" alt="General Statistics" />
-</p>
 <p align="center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jgafarias&theme=xcode&bg_color=151515&include_all_commits=true" alt="Activity Graph" />
 </p>
