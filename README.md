@@ -8,7 +8,7 @@
 
 <p align="center">
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jgafarias&layout=donut-vertical&theme=algolia&include_all_commits=true" alt="Techs used in projects" width="300px"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jgafarias&layout=donut-vertical&theme=algolia&include_all_commits=true&hide=cmake" alt="Techs used in projects" width="300px"/>
 
  ##
 
