@@ -12,8 +12,8 @@
 
  ##
 
- [![Flutter](https://github.com/jgafarias/jgafarias/blob/main/flutter-logo.png)](https://github.com/jgafarias?tab=repositories&q=Flutter&type=&language=&sort=)
- [![Dart](https://github.com/jgafarias/jgafarias/blob/main/Dart-logo.png)](https://github.com/jgafarias?tab=repositories&q=Flutter&type=&language=&sort=)
+ [![Flutter](https://github.com/jgafarias/jgafarias/blob/main/flutter-logo.png)](https://github.com/jgafarias?tab=repositories&q=Flutter&type=&language=&sort=) 
+ [![Dart](https://github.com/jgafarias/jgafarias/blob/main/Dart-logo.png)](https://github.com/jgafarias?tab=repositories&q=Flutter&type=&language=&sort=) 
  [![Python](https://github.com/jgafarias/jgafarias/blob/main/Python-logo.png)](https://github.com/jgafarias?tab=repositories&q=&type=&language=python&sort=)
 </p>
 
