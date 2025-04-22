@@ -16,8 +16,7 @@
 
 <div align="center">
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jgafarias&layout=compact&theme=algolia&include_all_commits=true&hide=cmake" alt="Techs used in projects" width="300px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgafarias&theme=algolia" alt="Streak" width="420px"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jgafarias&layout=donut-vertical&theme=algolia&include_all_commits=true&hide=cmake" alt="Techs used in projects" width="300px"/>
 
  ##
 
