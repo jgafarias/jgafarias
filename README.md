@@ -27,10 +27,6 @@
 </div>
 
  ##
-
-<div align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=jgafarias&theme=xcode&bg_color=151515&include_all_commits=true" alt="Activity Graph" />
-</div>
 <div align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=jgafarias&theme=algolia&margin-w=15&include_all_commits=true" alt="Trophies GitHub" />
 </div>
