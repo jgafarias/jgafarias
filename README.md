@@ -25,8 +25,3 @@
  [![Python](https://github.com/jgafarias/jgafarias/blob/main/Python-logo.png)](https://github.com/jgafarias?tab=repositories&q=&type=&language=python&sort=)
  
 </div>
-
- ##
-<div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=jgafarias&theme=algolia&margin-w=15&include_all_commits=true" alt="Trophies GitHub" />
-</div>
