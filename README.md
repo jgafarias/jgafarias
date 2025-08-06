@@ -9,7 +9,7 @@
 <h5 align="center">
 Python developer.
    
-Currently learning about [CyberSecurity](https://www.coursera.org/professional-certificates/google-cybersecurity) and Java.
+Currently learning about [CyberSecurity](https://www.coursera.org/professional-certificates/google-cybersecurity) and C#.
 </h5>
 
 <p align="center">
