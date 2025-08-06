@@ -7,7 +7,9 @@
 </h3>
 
 <h5 align="center">
-Python developer currently learning about cybersecurity, while also diving into Java in my free time.
+Python developer.
+   
+Currently learning about [CyberSecurity](https://www.coursera.org/professional-certificates/google-cybersecurity) and Java.
 </h5>
 
 <p align="center">
