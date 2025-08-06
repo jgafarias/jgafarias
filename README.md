@@ -47,11 +47,7 @@ Currently learning about [CyberSecurity](https://www.coursera.org/professional-c
 <div align=center>
 
   <a href="https://github.com/jgafarias">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jgafarias&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true" />
-  </a>
-  
-  <a href="https://github.com/jgafarias">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgafarias&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&layout=donut&height=100" />
+    <img src="https://github-streak-stats-navy.vercel.app?user=jgafarias&theme=algolia&border_color=B2E0FF&icon_color=95ccff&border_radius=20&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
   </a>
 
 </div>
