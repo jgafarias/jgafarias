@@ -6,6 +6,10 @@
   Hi, I'm Joao Gabriel
 </h3>
 
+<h5 align="center">
+Python developer currently learning about cybersecurity, while also diving into Java in my free time.
+</h5>
+
 <p align="center">
   <a href="https://github.com/jgafarias/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=jgafarias.jgafarias"></a>
 </p>
@@ -37,10 +41,16 @@
 ## 📊 Profile Statistics
 
 <div align=center>
-   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jgafarias&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&layout=donut-vertical)
 
-<br>
+  <a href="https://github.com/jgafarias">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jgafarias&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true" />
+  </a>
+  
+  <a href="https://github.com/jgafarias">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgafarias&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&layout=donut&height=100" />
+  </a>
+
+</div>
 
 ## &nbsp;Contact Me
 
