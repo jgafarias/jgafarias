@@ -11,36 +11,22 @@ Python developer.
    
 Currently learning about [CyberSecurity](https://www.coursera.org/professional-certificates/google-cybersecurity) and C#.
 </h5>
+<div align="center">
+<a href="mailto:jgafarias1@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jgafarias" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</a>
+</div>
 
-<p align="center">
-  <a href="https://github.com/jgafarias/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=jgafarias.jgafarias"></a>
-</p>
+## Skills
 
-## Languages
-
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-## Frameworks
-
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Flet](https://img.shields.io/badge/flet-%23FF2D20.svg?style=for-the-badge&logo=flet&logoColor=white)
-
-## Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![My Skills](https://skillicons.dev/icons?perline=12&i=python,dart,flutter,mysql)
 
 ## Tools
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![My Skills](https://skillicons.dev/icons?perline=12&i=git,github,vscode,visualstudio)
 
 ## Learning
 
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=black)
+![Learning](https://skillicons.dev/icons?perline=12&i=docker,cs,linux)
 
 ## 📊 Profile Statistics
 
@@ -52,10 +38,6 @@ Currently learning about [CyberSecurity](https://www.coursera.org/professional-c
 
 </div>
 
-## &nbsp;Contact Me
-
 <div align="center">
-<a href="mailto:jgafarias1@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/jgafarias" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</a>
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4daec8,100:091519&height=100&section=footer" />
 </div>
